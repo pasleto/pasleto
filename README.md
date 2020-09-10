@@ -4,13 +4,6 @@
 - 🏢 I’m currently working at Continental Automotive Group Czech Republic as IT Specialist
 - 🚀 I’m currently styding Computer Science
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true&hide_border=true" />
-</details>
-
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="pasleto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,6 +33,12 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Intellij Idea" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" />
 
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true&hide_border=true" />
+</details>
+
 [linkedin]: https://www.linkedin.com/in/tomas-pasler
 [bmc]: https://www.buymeacoffee.com/pasleto
-[stats]: https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true
