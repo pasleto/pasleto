@@ -4,6 +4,11 @@
 - 🏢 I’m currently working at Continental Automotive Group Czech Republic as IT Specialist
 - 🚀 I’m currently styding Computer Science
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true&hide_border=true" />
+</details>
+
 ### Github Stats:
 
 ![pasleto github stats][stats]
