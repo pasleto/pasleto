@@ -26,7 +26,6 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/react.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/node-dot-js.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
