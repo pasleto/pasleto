@@ -4,6 +4,10 @@
 - 🏢 I’m currently working at Continental Automotive Group Czech Republic as IT Specialist
 - 🚀 I’m currently styding Computer Science
 
+### Github Stats:
+
+![pasleto github stats][stats]
+
 <br />
 
 ### Connect with me:
@@ -33,3 +37,4 @@
 
 [linkedin]: https://www.linkedin.com/in/tomas-pasler
 [bmc]: https://www.buymeacoffee.com/pasleto
+[stats]: https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true
