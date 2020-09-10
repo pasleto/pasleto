@@ -19,6 +19,10 @@
 
 <img align="left" alt="Windows 10" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/windows.svg" />
 <img align="left" alt="MacOS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/apple.svg" />
+<img align="left" alt="Cisco" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/cisco.svg" />
+<img align="left" alt="Ubiquiti" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/ubiquiti.svg" />
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/linux.svg" />
+<img align="left" alt="Home Assistant" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/homeassistant.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
