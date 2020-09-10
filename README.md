@@ -9,10 +9,6 @@
   <img align="left" alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true&hide_border=true" />
 </details>
 
-### Github Stats:
-
-![pasleto github stats][stats]
-
 ### Connect with me:
 
 [<img align="left" alt="pasleto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
