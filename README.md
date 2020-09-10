@@ -39,6 +39,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
+  <br />
   <img align="left" alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true" />
 </details>
 
