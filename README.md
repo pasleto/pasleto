@@ -42,12 +42,19 @@
   <table><tr><td valign="top" width="50%">
 
   ### Desktop
-  - Windows 10
+  - Windows 10 Pro 64-bit
+  - Intel Core i7-6700K
+  - 2x8GB Kingston HyperX Fury DDR4
+  - MSI GTX 1070 Gaming X 8GB
+  - Intel 660p NVME 512GB | Samsung 850 Evo 500GB
 
   </td><td valign="top" width="50%">
 
   ### Laptop
-  - Apple Macbook Pro 2018 4TB with TouchBar
+  - Apple Macbook Pro 13" 2018 4TB with TouchBar
+  - Intel
+  - 16GB Ram
+  - 256GB SSD
 
   </td></tr></table>
 </details>
