@@ -1,4 +1,4 @@
-### Hi there, I'm Tomáš - aka pasleto <img src="https://raw.githubusercontent.com/pasleto/pasleto/master/wave.gif" width="30px">
+### Hi there, I'm Tomáš - aka pasleto <img src="https://raw.githubusercontent.com/pasleto/pasleto/master/wave.gif" width="26px">
 
 - 💻 I'm a Student / Employee / Full Stack Web Developer
 - 🏢 I’m currently working at Continental Automotive Group Czech Republic as IT Specialist
