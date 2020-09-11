@@ -38,6 +38,12 @@
 ---
 
 <details>
+  <summary>:zap: Languages and Tools</summary>
+  <br />
+  Coming soon ...
+</details>
+
+<details>
   <summary>:zap: Workstations</summary>
   <br />
   
