@@ -49,7 +49,7 @@
   - Intel 660p NVME 512GB | Samsung 850 Evo 500GB
   - Windows 10 Pro 64-bit
 
-  </td><td valign="top" width="50%">
+  </td><td valign="top" width="60%">
 
   ### Laptop
   - Apple Macbook Pro 13" 2018 4TB with TouchBar
