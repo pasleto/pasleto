@@ -50,7 +50,9 @@
 <details>
   <summary>:zap: Github Stats</summary>
   <br />
-  <img align="center" alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true" />
+  <p align="center">
+  <img align="left" alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true" />
+  </p>
 </details>
 
 [linkedin]: https://www.linkedin.com/in/tomas-pasler
