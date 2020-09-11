@@ -38,6 +38,14 @@
 ---
 
 <details>
+  <summary>:zap: Current Job / School</summary>
+  <br />
+  <p align="center">
+  Coming soon ...
+  </p>
+</details>
+
+<details>
   <summary>:zap: Connect with me</summary>
   <br />
   <p align="center">
