@@ -39,6 +39,7 @@
 
 <details>
   <summary>:zap: Workstations</summary>
+  <br />
   <table><tr><td valign="top" width="50%">
 
   ### Desktop
