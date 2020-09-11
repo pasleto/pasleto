@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: Workstations</summary>
   <br />
-  <table width="100%"><tbody><tr><td valign="top" width="50%">
+  <table><tbody><tr><td valign="top" width="50%">
 
   ### Desktop
   - Intel Core i7-6700K
