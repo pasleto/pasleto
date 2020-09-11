@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: Workstations</summary>
   <br />
-  <table width="100%"><tr><td valign="top" width="50%">
+  <table width="100%"><tbody><tr><td valign="top" width="50%">
 
   ### Desktop
   - Intel Core i7-6700K
@@ -58,7 +58,7 @@
   - 256GB SSD
   - MacOS X
 
-  </td></tr></table>
+  </td></tr></tbody></table>
 </details>
 
 <details>
