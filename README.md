@@ -35,20 +35,20 @@
 <br />
 <br />
 
-<table><tr><td valign="top" width="50%">
-
-### Desktop
-
-</td><td valign="top" width="50%">
-
-### Laptop
-
-</td></tr></table>
-
-<br />
-<br />
-
 ---
+
+<details>
+  <summary>:zap: Workstations</summary>
+  <table><tr><td valign="top" width="50%">
+
+  ### Desktop
+
+  </td><td valign="top" width="50%">
+
+  ### Laptop
+
+  </td></tr></table>
+</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
