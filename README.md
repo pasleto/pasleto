@@ -45,12 +45,12 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+  <br><p align="center">Everything here is available under the XXXX!<br><br></p>
 
   </td>
   <td width="50%">
 
-<br><p align="center">Everything here is available under the XXXX!<br><br></p>
+  <br><p align="center">Everything here is available under the XXXX!<br><br></p>
 
   </td>
   </table>
