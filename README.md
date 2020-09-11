@@ -51,7 +51,7 @@
   <summary>:zap: Github Stats</summary>
   <br />
   <p align="center">
-  <img alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true" />
+  <img alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&count_private=true&show_icons=true&include_all_commits=true" />
   <img alt="pasleto's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasleto&layout=compact" />
   </p>
 </details>
