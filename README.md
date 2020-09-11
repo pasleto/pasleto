@@ -42,7 +42,7 @@
   <br />
   <table><tbody><tr><td valign="top" width="50%">
 
-  <h2>Desktop</h2>
+  ### Desktop
   - Intel Core i7-6700K
   - 2x8GB Kingston HyperX Fury DDR4
   - MSI GTX 1070 Gaming X 8GB
