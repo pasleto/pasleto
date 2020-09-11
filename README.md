@@ -43,7 +43,7 @@
   
   | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Desktop &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Laptops &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
   | --- | --- |
-  | <ul><li>Intel Core i7-6700K</li><li>2x8GB Kingston HyperX Fury DDR4</li><li>MSI GTX 1070 Gaming X 8GB</li><li>Intel 660p NVME 512GB / Samsung 850 Evo 500GB</li><li>Windows 10 Pro 64-bit</li></ul>| <ul><li>Apple Macbook Pro 13" 2018 4TB with TouchBar</li><ul><li>Intel Core i5 / 16GB RAM / 256GB</li><li>MacOS X</li></ul><br /><li>HP Elitebook 850 15.6"</li><ul><li>Intel Core i5 / 16GB RAM / 512GB</li><li>Windows 10 Pro 64-bit</li></ul></ul> |
+  | <ul><li>Intel Core i7-6700K</li><li>2x8GB Kingston HyperX Fury DDR4</li><li>MSI GTX 1070 Gaming X 8GB</li><li>Intel 660p NVME 512GB / Samsung 850 Evo 500GB</li><li>Windows 10 Pro 64-bit</li></ul>| <ul><li>Apple Macbook Pro 13" 2018 4TB with TouchBar</li><ul><li>Intel Core i5 / 16GB RAM / 256GB</li><li>MacOS X</li></ul><li>HP Elitebook 850 15.6"</li><ul><li>Intel Core i5 / 16GB RAM / 512GB</li><li>Windows 10 Pro 64-bit</li></ul></ul> |
 
 </details>
 
