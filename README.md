@@ -39,54 +39,15 @@
 
 <details>
   <summary>:zap: Workstations</summary>
-  <table><tr><td valign="top" width="100%">
-
-### Recent releases
-<!-- recent_releases starts -->
-[datasette-dns 0.1a1](https://github.com/simonw/datasette-dns/releases/tag/0.1a1) - 2020-09-10
-
-[dogsheep-beta 0.7a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.7a0) - 2020-09-09
-
-[sqlite-utils 2.18](https://github.com/simonw/sqlite-utils/releases/tag/2.18) - 2020-09-08
-
-[datasette-backup 0.1](https://github.com/simonw/datasette-backup/releases/tag/0.1) - 2020-09-07
-
-[sqlite-dump 0.1.1](https://github.com/simonw/sqlite-dump/releases/tag/0.1.1) - 2020-09-07
-
-[datasette-block-robots 0.3](https://github.com/simonw/datasette-block-robots/releases/tag/0.3) - 2020-09-06
-
-[airtable-export 0.4](https://github.com/simonw/airtable-export/releases/tag/0.4) - 2020-08-30
-
-[datasette-yaml 0.1a](https://github.com/simonw/datasette-yaml/releases/tag/0.1a) - 2020-08-29
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
-</td><td valign="top" width="100%">
-
-### TIL
-<!-- tils starts -->
-[Basic strace to see what a process is doing](https://til.simonwillison.net/til/til/linux_basic-strace.md) - 2020-09-07
-
-[Display EC2 instance costs per month](https://til.simonwillison.net/til/til/aws_instance-costs-per-month.md) - 2020-09-07
-
-[Very basic tsc usage](https://til.simonwillison.net/til/til/typescript_basic-tsc.md) - 2020-09-06
-
-[Debugging a Click application using pdb](https://til.simonwillison.net/til/til/python_debug-click-with-pdb.md) - 2020-09-03
-
-[Using the gcloud run services list command](https://til.simonwillison.net/til/til/cloudrun_gcloud-run-services-list.md) - 2020-09-02
-<!-- tils ends -->
-More on [til.simonwillison.net](https://til.simonwillison.net/)
-</td></tr></table>
-</details>
-
-<details>
-  <summary>:zap: Workstations</summary>
-  <table width="100%"><tr width="100%"><td valign="top" width="50%">
+  <table><tr><td valign="top" width="50%">
 
   ### Desktop
+  - Windows 10
 
   </td><td valign="top" width="50%">
 
   ### Laptop
+  - Apple Macbook Pro 2018 4TB with TouchBar
 
   </td></tr></table>
 </details>
