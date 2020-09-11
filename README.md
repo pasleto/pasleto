@@ -42,7 +42,7 @@
   
   |                   Desktop                   |                   Laptop                   |
   | ------------------------------------------- | ------------------------------------------ |
-  | <ul><li>Intel Core i7-6700K</li><li>2x8GB Kingston HyperX Fury DDR4</li><li>MSI GTX 1070 Gaming X 8GB</li><li>Intel 660p NVME 512GB | Samsung 850 Evo 500GB</li><li>Windows 10 Pro 64-bit</li></ul>| <ul><li>Apple Macbook Pro 13" 2018 4TB with TouchBar</li><li>Intel Core i5</li><li>16GB Ram</li><li>256GB SSD</li><li>MacOS X</li></ul> |
+  | <ul><li>Intel Core i7-6700K</li><li>2x8GB Kingston HyperX Fury DDR4</li><li>MSI GTX 1070 Gaming X 8GB</li><li>Intel 660p NVME 512GB / Samsung 850 Evo 500GB</li><li>Windows 10 Pro 64-bit</li></ul>| <ul><li>Apple Macbook Pro 13" 2018 4TB with TouchBar</li><li>Intel Core i5</li><li>16GB Ram</li><li>256GB SSD</li><li>MacOS X</li></ul> |
   
   
   <br />
@@ -53,7 +53,7 @@
       <li>Intel Core i7-6700K</li>
       <li>2x8GB Kingston HyperX Fury DDR4</li>
       <li>MSI GTX 1070 Gaming X 8GB</li>
-      <li>Intel 660p NVME 512GB, Samsung 850 Evo 500GB</li>
+      <li>Intel 660p NVME 512GB | Samsung 850 Evo 500GB</li>
       <li>Windows 10 Pro 64-bit</li>
     </ul>
   </p>
