@@ -41,9 +41,13 @@
   <summary>:zap: Workstations</summary>
   <br />
   
-  | &nbsp; ### Desktop     | &nbsp; ### Laptop |
+  | &nbsp; Desktop     | &nbsp; Laptop |
   | ---------------------- | ----------------- | 
-  | - Intel Core i7-6700K  | - Apple Macbook Pro 13" 2018 4TB with TouchBar |
+  | Intel Core i7-6700K  | Apple Macbook Pro 13" 2018 4TB with TouchBar |
+  | 2x8GB Kingston HyperX Fury DDR4  | Intel Core i5 |
+  | MSI GTX 1070 Gaming X 8GB  | 16GB Ram |
+  | Intel 660p NVME 512GB | Samsung 850 Evo 500GB  | 256GB SSD |
+  | Windows 10 Pro 64-bit  | MacOS X |
   
   
   <br />
