@@ -38,9 +38,19 @@
 ---
 
 <details>
+  <summary>:zap: Connect with me</summary>
+  <br />
+  <p align="center">
+  Coming soon ...
+  </p>
+</details>
+
+<details>
   <summary>:zap: Languages and Tools</summary>
   <br />
+  <p align="center">
   Coming soon ...
+  </p>
 </details>
 
 <details>
