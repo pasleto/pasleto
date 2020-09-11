@@ -35,17 +35,13 @@
 <br />
 <br />
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Desktop
 
-</td><td valign="top" width="34%">
+</td><td valign="top" width="50%">
 
 ### Laptop
-
-</td><td valign="top" width="33%">
-
-### XXX
 
 </td></tr></table>
 
