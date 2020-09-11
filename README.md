@@ -45,12 +45,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br>   ### Desktop
-  - Intel Core i7-6700K
-  - 2x8GB Kingston HyperX Fury DDR4
-  - MSI GTX 1070 Gaming X 8GB
-  - Intel 660p NVME 512GB | Samsung 850 Evo 500GB
-  - Windows 10 Pro 64-bit
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
   </td>
   <td width="50%">
