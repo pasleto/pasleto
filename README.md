@@ -39,7 +39,7 @@
 
 <details>
   <summary>:zap: Workstations</summary>
-  <table><tr><td valign="top" width="65%">
+  <table><tr><td valign="top" width="100%">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -60,7 +60,7 @@
 [datasette-yaml 0.1a](https://github.com/simonw/datasette-yaml/releases/tag/0.1a) - 2020-08-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
-</td><td valign="top" width="65%">
+</td><td valign="top" width="100%">
 
 ### TIL
 <!-- tils starts -->
