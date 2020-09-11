@@ -45,13 +45,21 @@
   <tr>
   <td width="50%">
       
-  ### 1
+&nbsp; <br>   ### Desktop
+  - Intel Core i7-6700K
+  - 2x8GB Kingston HyperX Fury DDR4
+  - MSI GTX 1070 Gaming X 8GB
+  - Intel 660p NVME 512GB | Samsung 850 Evo 500GB
+  - Windows 10 Pro 64-bit
 
   </td>
   <td width="50%">
 
-  ### 2
-
+<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
+  [![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+</p>
   </td>
   </table>
   
