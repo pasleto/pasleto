@@ -42,7 +42,8 @@
   <br />
   
   | &nbsp; ### Desktop     | &nbsp; ### Laptop |
-  | -Intel Core i7-6700K | - Apple Macbook Pro 13" 2018 4TB with TouchBar |
+  | ---------------------- | ----------------- | 
+  | - Intel Core i7-6700K  | - Apple Macbook Pro 13" 2018 4TB with TouchBar |
   
   
   <br />
