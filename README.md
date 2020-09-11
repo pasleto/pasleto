@@ -52,6 +52,7 @@
   <br />
   <p align="center">
   <img alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&show_icons=true" />
+  <img alt="pasleto's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasleto&layout=compact" />
   </p>
 </details>
 
