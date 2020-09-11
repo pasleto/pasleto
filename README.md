@@ -34,7 +34,10 @@
 
 
 <table>
-  <tr></tr>
+  <tr>
+    <td width="50%">1</td>
+    <td width="50%">2</td>
+  </tr>
 </table>
 
 <br />
