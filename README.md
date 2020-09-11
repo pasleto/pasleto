@@ -41,7 +41,7 @@
   <summary>:zap: Workstations</summary>
   <br />
   <table><tbody><tr><td valign="top" width="50%">
-  
+  <p align="center">
     <h2 align="center">Desktop</h2>
     <ul>
       <li>Intel Core i7-6700K</li>
@@ -50,7 +50,7 @@
       <li>Intel 660p NVME 512GB | Samsung 850 Evo 500GB</li>
       <li>Windows 10 Pro 64-bit</li>
     </ul>
-  
+  </p>
   </td><td valign="top" width="50%">
   <p align="center">
     <h2 align="center">Laptop</h2>
