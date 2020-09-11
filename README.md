@@ -42,14 +42,12 @@
   <br />
   <table><tbody><tr><td valign="top" width="50%">
   <p align="center">
-    <h2 align="center">Desktop</h2>
-    <ul>
-      <li>Intel Core i7-6700K</li>
-      <li>2x8GB Kingston HyperX Fury DDR4</li>
-      <li>MSI GTX 1070 Gaming X 8GB</li>
-      <li>Intel 660p NVME 512GB | Samsung 850 Evo 500GB</li>
-      <li>Windows 10 Pro 64-bit</li>
-    </ul>
+  ### Desktop
+  - Intel Core i7-6700K
+  - 2x8GB Kingston HyperX Fury DDR4
+  - MSI GTX 1070 Gaming X 8GB
+  - Intel 660p NVME 512GB | Samsung 850 Evo 500GB
+  - Windows 10 Pro 64-bit
   </p>
   </td><td valign="top" width="50%">
   <p align="center">
