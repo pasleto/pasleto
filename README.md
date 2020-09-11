@@ -40,6 +40,12 @@
 <details>
   <summary>:zap: Workstations</summary>
   <br />
+  
+  | Column 1     | Column 2 |
+  | ------------ | -------- |
+  
+  <br />
+  
   <table><tbody><tr><td valign="top" width="50%" min-width="50%">
   <p align="center">
     <h2 align="center">Desktop</h2>
