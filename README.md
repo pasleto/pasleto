@@ -39,7 +39,7 @@
 
 <details>
   <summary>:zap: Workstations</summary>
-  <table><tr><td valign="top" width="33%">
+  <table><tr><td valign="top" width="50%">
 
 ### Recent releases
 <!-- recent_releases starts -->
@@ -60,22 +60,7 @@
 [datasette-yaml 0.1a](https://github.com/simonw/datasette-yaml/releases/tag/0.1a) - 2020-08-29
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
-</td><td valign="top" width="34%">
-
-### On my blog
-<!-- blog starts -->
-[Weeknotes: datasette-dump, sqlite-backup, talks](http://simonwillison.net/2020/Sep/11/weeknotes-sqlite-dump/) - 2020-09-11
-
-[Weeknotes: airtable-export, generating screenshots in GitHub Actions, Dogsheep!](http://simonwillison.net/2020/Sep/3/weeknotes-airtable-screenshots-dogsheep/) - 2020-09-03
-
-[The "await me maybe" pattern for Python asyncio](http://simonwillison.net/2020/Sep/2/await-me-maybe/) - 2020-09-02
-
-[Mexican bean shakshuka](http://simonwillison.net/2020/Aug/28/mexican-bean-shakshuka/) - 2020-08-28
-
-[Weeknotes: California Protected Areas in Datasette](http://simonwillison.net/2020/Aug/28/weeknotes-cpad/) - 2020-08-28
-<!-- blog ends -->
-More on [simonwillison.net](https://simonwillison.net/)
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### TIL
 <!-- tils starts -->
