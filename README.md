@@ -42,7 +42,7 @@
   <br />
   <table><tbody><tr><td valign="top" width="50%">
   <p align="center">
-    <h2>Desktop</h2>
+    <h2 align="center">Desktop</h2>
     <ul>
       <li>Intel Core i7-6700K</li>
       <li>2x8GB Kingston HyperX Fury DDR4</li>
@@ -53,7 +53,7 @@
   </p>
   </td><td valign="top" width="50%">
   <p align="center">
-    <h2>Laptop</h2>
+    <h2 align="center">Laptop</h2>
     <ul>
       <li>Apple Macbook Pro 13" 2018 4TB with TouchBar</li>
       <li>Intel Core i5</li>
