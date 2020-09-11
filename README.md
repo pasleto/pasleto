@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: Workstations</summary>
   <br />
-  <table><tr><td valign="top" width="60%">
+  <table width="800px"><tr><td valign="top" width="50%">
 
   ### Desktop
   - Intel Core i7-6700K
@@ -49,7 +49,7 @@
   - Intel 660p NVME 512GB | Samsung 850 Evo 500GB
   - Windows 10 Pro 64-bit
 
-  </td><td valign="top" width="60%">
+  </td><td valign="top" width="50%">
 
   ### Laptop
   - Apple Macbook Pro 13" 2018 4TB with TouchBar
