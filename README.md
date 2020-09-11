@@ -39,6 +39,12 @@
 
 <details>
   <summary>:zap: Workstations</summary>
+  
+  | Tables        | Are           |
+  | ------------- |---------------|
+  | <ul><li>item1</li><li>item2</li></ul>| <ul><li>item1</li><li>item2</li></ul> |
+  
+  
   <br />
   <table><tbody><tr><td valign="top" width="50%" min-width="50%">
   <p align="center">
