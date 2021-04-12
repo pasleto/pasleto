@@ -4,7 +4,7 @@
 
 - 💻 I'm a Student / Employee / Full Stack Web Developer
 - 🏢 I’m currently working at Continental Automotive Group Czech Republic as IT Specialist
-- 🚀 I’m currently styding Computer Science
+- 🚀 I’m currently studyding Computer Science
 
 ### Connect with me:
 
