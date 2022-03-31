@@ -2,7 +2,7 @@
 
 ### I'm Tomáš - aka pasleto
 
-- 💻 I'm a Student / Employee / Full Stack Web Developer
+- 💻 I'm a Student / Employee / Full Stack Developer
 - 🏢 I’m currently working at Continental Automotive Group Czech Republic as IT Specialist
 - 🚀 I’m currently studyding Computer Science
 
