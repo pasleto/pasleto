@@ -1,4 +1,5 @@
-# Hello there! <img src="https://raw.githubusercontent.com/pasleto/pasleto/master/wave.gif" width="30px">
+# Hello there! 
+<!-- <img src="https://raw.githubusercontent.com/pasleto/pasleto/master/wave.gif" width="30px"> -->
 
 ### I'm Tomáš - aka pasleto
 
