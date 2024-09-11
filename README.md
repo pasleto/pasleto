@@ -11,6 +11,7 @@
   <p align="center">
     [<img align="left" alt="pasleto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   </p>
+
 </details>
 
 <details>
@@ -31,6 +32,7 @@
     <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/github.svg" />
     <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   </p>
+
 </details>
 
 <details>
@@ -50,6 +52,7 @@
   <img alt="pasleto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pasleto&count_private=true&show_icons=true&include_all_commits=true&hide=contribs" />
   <img alt="pasleto's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasleto&layout=compact" />
   </p>
+
 </details>
 
 [linkedin]: https://www.linkedin.com/in/tomas-pasler
