@@ -30,7 +30,7 @@
   <summary>:zap: Workstations</summary>
   <br />
   
-  | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Desktop &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Laptops &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+  | Desktop | Laptops |
   | --- | --- |
   | <ul><li>Intel Core i7-6700K</li><li>4x8GB Kingston HyperX Fury DDR4</li><li>MSI GTX 1070 Gaming X 8GB</li><li>3x1TB NVMe SSD / 3x500GB SATA SSD</li><li>Windows 10 Pro 64-bit</li><li>AOC G2590PX / AOC I2490PXQU</li></ul>| <ul><li>Apple Macbook Pro 13" 2018 4TB with TouchBar</li><ul><li>Intel Core i5 / 16GB RAM / 256GB</li><li>MacOS Monterey</li></ul><li>Dell Precision 5560</li><ul><li>Intel Core i7-11850H / 32GB DDR4 / 2x512GB NVMe RAID0</li><li>Windows 11 Enterprise 64-bit</li></ul></ul> |
 
