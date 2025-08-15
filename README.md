@@ -31,7 +31,7 @@
   
   | Desktop | Laptops |
   | --- | --- |
-  | <ul><li>Intel Core Ultra 7 265K</li><li>2x 48GB DDR5 6400MHz CL32</li><li>MSI GeForce RTX 4090 SUPRIM X 24G</li><li>RAID5 5x Samsung 990 Pro 1TB</li><li>RAID5 4x Samsung 870 Evo 1TB</li><li>Windows 11 Pro</li><li>AOC G2590PX / AOC I2490PXQU</li></ul>| <ul><li>Apple Macbook Pro 13" 2018 4TB with TouchBar</li><ul><li>Intel Core i5 / 16GB RAM / 256GB</li><li>MacOS Sequoia</li></ul><li>Dell Precision 5560</li><ul><li>Intel Core i7-11850H / 64GB DDR4 / NVIDIA T1200</li><li>RAID1 2x1TB Samsung 990 Pro</li><li>Windows 11 Enterprise</li><li>HP Z32 4K UHD / 2x HP 527PQ QHD</li></ul></ul> |
+  | <ul><li>Intel Core Ultra 7 265K</li><li>2x 48GB DDR5 6400MHz CL32</li><li>MSI GeForce RTX 4090 SUPRIM X 24G</li><li>RAID5 5x Samsung 990 Pro 1TB</li><li>RAID5 4x Samsung 870 Evo 1TB</li><li>Windows 11 Pro</li><li>AOC G2590PX / AOC I2490PXQU</li></ul>| <ul><li>Apple Macbook Pro 13" 2018 4TB with TouchBar</li><ul><li>Intel Core i5 / 16GB RAM / 256GB</li><li>MacOS Sequoia</li></ul><li>Dell Precision 5560</li><ul><li>Intel Core i7-11850H / 64GB DDR4 / NVIDIA T1200</li><li>RAID1 2x Samsung 990 Pro 1TB</li><li>Windows 11 Enterprise</li><li>HP Z32 4K UHD / 2x HP 527PQ QHD</li></ul></ul> |
 
 </details>
 
